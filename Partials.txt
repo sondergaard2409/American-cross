@@ -1,0 +1,13 @@
+Hvilke partials skal du bruge?
+
+1. Partial til diverse logoer på siden.
+2. Partial som indeholder alle de forskellige colours, fra Primary til secondary lavet som variabler.
+3. Partial til typografi; fonts, sizes etc.
+4. Partial til sections og articles.
+
+Hvad skal dine partials indholde (eks. mixins, variabler)
+
+1. Logo partial skal indholde mixins til alle de 9 forskellige logoer, vist i brandguiden.
+2. Colour partial vil inholde variabler til alle colours. 
+3. Typografi partial skal inholde mixins til styling på alt text. Både til headers, sections og articles.
+4. Sections og articals partial skal inholde mixins til opsætning af alle sektioner og artikler.
